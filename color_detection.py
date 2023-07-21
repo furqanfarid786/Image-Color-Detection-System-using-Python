@@ -3,10 +3,10 @@ import numpy as np
 import pandas as pd
 
 # Image path
-img_path = "C:/Users/aisha/Downloads/python-project-color-detection/colorpic.jpg"
+img_path = "C:/Users/furqan/Downloads/python-project-color-detection/colorpic.jpg"
 
 # CSV path
-csv_path = "C:/Users/aisha/Downloads/python-project-color-detection/c.csv"
+csv_path = "C:/Users/furqan/Downloads/python-project-color-detection/c.csv"
 
 # Reading the image  from the specified path with OpenCV and stores it in the img variable.
 
